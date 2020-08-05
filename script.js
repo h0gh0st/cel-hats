@@ -27,7 +27,7 @@ const brands = [
   {
     imageName: "eval",
     brandName: "Evaluator",
-    description: "Observe the speeches and leadership roles of club members and offer evaluation of their effrots. Provide objective verbal and written evaluations for speakers."
+    description: "Observe the speeches and leadership roles of club members and offer evaluation of their efforts. Provide objective verbal and written evaluations for speakers."
   },
   {
     imageName: "ge",
